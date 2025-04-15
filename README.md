@@ -1,5 +1,9 @@
+# ⚖️ Nginx Load Balancer Demo
 
-# my-git-project
-learning purpose
+This project demonstrates how to configure **Nginx** as a reverse proxy and load balancer for two simple static web servers.
+
+## 📁 Project Structure
+
+
 
 
